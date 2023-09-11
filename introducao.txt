@@ -1,4 +1,5 @@
 Comandos git
-git init
-git add
-git commit -m
+git init (inicia o git no seu repositório)
+git add (adiciona as alterações do código)
+git commit -m (cria uma nova versão do repositório)
+git push (manda a nova versão do repositório para gitHub)
