@@ -1,3 +1,4 @@
 git branch (mostra todas as branch)
 
 git checkout -b nameBranch (muda da branch atual para outra branch)
+
