@@ -1,1 +1,2 @@
 Assisti as videos aulas para aprender
+1-Crie um repositório no seu gitHub
