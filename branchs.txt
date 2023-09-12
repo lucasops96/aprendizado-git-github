@@ -2,7 +2,8 @@ git branch (mostra todas as branch)
 
 git branch name-branch (cria uma branch)
 
-git checkout -b name-branch (muda da branch atual para outra branch)
+git checkout name-branch (muda da branch atual para outra branch)
+git checkout -b name-branch (muda da branch atual para outra branch nova que acabou de ser criada)
 
 git merge name-branch (a branch(*main) atual vai  receber a branch(name-branch) que está sendo citado no comando, uma junção entre as branchs)
 
