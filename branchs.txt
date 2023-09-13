@@ -7,3 +7,13 @@ git checkout -b name-branch (muda da branch atual para outra branch nova que aca
 
 git merge name-branch (a branch(*main) atual vai  receber a branch(name-branch) que está sendo citado no comando, uma junção entre as branchs)
 
+
+git stash (armazena todas as alterações feitas, caso aconteça algum erro nas alterações e você precisa resolver o erro , este comando armazena as alterações e volta para o início da versão)
+
+git stash pop (traz de volta todas as alterações que estavam armazenadas)
+
+git revert <hash do commit> (defaz as alterações do commit, caso tenha feito um commit e tinha alguma alteração que devia estar no commit, execute este comando junto com o hash do commit que deve ser revertido)
+
+git reset --soft
+git reset (padrão mixed)
+git reset --hard
